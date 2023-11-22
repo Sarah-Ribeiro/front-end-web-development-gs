@@ -17,7 +17,7 @@ Um projeto inovador para a Global Solution da FIAP nas disciplinas de Front-end 
 
 ## Screenshots
 
-<p align="center"><img src="/Users/sarahribeiro/www/global-solution/front-end-design-web-development/appointment-scheduling-system/src/assets/modelo.png" alt="project-image"></p>
+<p align="center"><img src="/Users/sarahribeiro/www/global-solution/front-end-design-web-development/sistema-agendamento-consultas/src/assets/modelo.png" alt="project-image"></p>
 
 ## Json-Server
 
