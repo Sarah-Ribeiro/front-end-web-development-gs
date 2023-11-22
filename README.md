@@ -4,6 +4,10 @@
 
 Um projeto inovador para a Global Solution da FIAP nas disciplinas de Front-end Design e Web Development. O foco é a criação de um sistema de agendamento de consultas.
 
+## Integrante do grupo
+
+Nome: Sarah Ribeiro - RM: 97747
+
 ## Tech Stack
 
 - ReactJS
